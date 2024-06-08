@@ -32,7 +32,7 @@ const SearchBar = ({ setResults }) => {
 
   return (
     <>
-    <h1>Search by Book Name</h1>
+    <h1 className="title">Search by Book Name</h1>
     <div className="search-bar">
       <div className="search-bar-button">
         <input

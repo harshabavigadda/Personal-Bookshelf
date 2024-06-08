@@ -52,7 +52,7 @@
     .book-card {
       flex: 1 1 calc(100% - 20px);
       min-width: none;
-      max-width: 300px;
+      max-width: 250px;
     }
   }
   

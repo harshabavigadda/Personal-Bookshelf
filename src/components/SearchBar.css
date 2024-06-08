@@ -39,6 +39,10 @@
     margin-top: 0px;
     margin-left: 0px;
 }
+.title {
+  font-size: 20px;
+
+}
 .loading-icon {
     margin-left: 5px;
     animation: spin 1s linear infinite;
@@ -69,7 +73,8 @@
         margin-left: 5px;
     }
     .search-bar input {
-        min-width: 6.5cm;
+        max-width: 5cm;
+        min-width: 5cm;
         margin-left: 5px;
     }
   }
