@@ -23,7 +23,7 @@
 2. Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
 
 ### Deployment
-The application is deployed on Netlify: [https://personal-bookshelf-theta.vercel.app/]
+The application is deployed on Vercel: [https://personal-bookshelf-theta.vercel.app/]
 
 ## Features
 - Search for books using the Open Library API.
